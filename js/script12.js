@@ -1,6 +1,18 @@
 'use strict';
  
 
+const str = "test";
+
+// console.log(str[2] = 'd'); 
+
+/*  console.log(str.toUpperCase()); */
+ console.log(str.toLowerCase());
+ console.log(str); 
+
+
+
+
+
 /* ФУНКЦИИ
  let num = 20;
 function showFirstMessage(text) {
@@ -48,20 +60,6 @@ return a + b;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* ЦИКЛЫ
 const numberOfFilms = +prompt('Сколько фильмов вы уже посмотрели?', '');
 
@@ -83,7 +81,7 @@ if (a != null && b != null && a != '' && b != '' && a.length < 50) {
     console.log('done');
 } else {
     console.log('error');
-    i--;
+    i--;   
     }
 }
  if (personalMovieDB.count < 10) {
@@ -96,7 +94,9 @@ if (a != null && b != null && a != '' && b != '' && a.length < 50) {
      console.log("Ошибка");
  }
 
- console.log(personalMovieDB);   */
+ console.log(personalMovieDB);   
+ 
+ */
 
 
 
@@ -194,4 +194,4 @@ for (let i = 1; i < 8; i++ ) {
   }
    */
 
-  ...
+  
